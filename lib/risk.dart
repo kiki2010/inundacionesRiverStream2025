@@ -14,7 +14,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import 'package:river_stream_unlimited_tech/generated/l10n.dart';
 
 //Api key
-final String apiKey = "026cda1f35b54cddacda1f35b53cdda3";
+final String apiKey = "";
 
 // リスク画面用ウィジェット / Widget for risk screen
 class RiskScreen extends StatefulWidget {
