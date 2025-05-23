@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "394168036810",
+    "project_id": "flood-app-7e647",
+    "storage_bucket": "flood-app-7e647.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394168036810:android:9712c79061fc2d4afd3333",
+        "android_client_info": {
+          "package_name": "com.example.flood"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW_riuCT7GCgQmoOXjxnkSK2-q8wq1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394168036810:android:13cd7e72101104c2fd3333",
+        "android_client_info": {
+          "package_name": "com.example.river_stream_unlimited_tech"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW_riuCT7GCgQmoOXjxnkSK2-q8wq1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394168036810:android:db8537c5abd04d91fd3333",
+        "android_client_info": {
+          "package_name": "com.example.riverstream"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW_riuCT7GCgQmoOXjxnkSK2-q8wq1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394168036810:android:7764524f5e1518f9fd3333",
+        "android_client_info": {
+          "package_name": "com.example.riverstream_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW_riuCT7GCgQmoOXjxnkSK2-q8wq1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394168036810:android:6b787882b792d8ecfd3333",
+        "android_client_info": {
+          "package_name": "com.flood.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW_riuCT7GCgQmoOXjxnkSK2-q8wq1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394168036810:android:c3bf8f987c1e14cefd3333",
+        "android_client_info": {
+          "package_name": "flood.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxW_riuCT7GCgQmoOXjxnkSK2-q8wq1Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
